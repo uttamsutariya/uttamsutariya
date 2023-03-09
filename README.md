@@ -18,19 +18,19 @@ I also have an experience as a backend developer from last 6 months.
 <a href="https://nodejs.org/en/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width=35 title="node.js"/> 
 </a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width=35 title="MongoDB"/>
-</a>
 <a href="https://expressjs.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" width=80 title="Express.js"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width=80 title="MySQL"/>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width=35 title="MongoDB"/>
 </a>
 <a href="https://redis.io/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="Redis" width=80 title="REDIS"/>
 </a>
 <a href="https://jestjs.io/" target="_blank">
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" width=80 title="MySQL"/>
+</a><a href="https://jestjs.io/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest.js" width=80 title="JEST"/>
 </a>
 <a href="https://www.docker.com/" target="_blank">
