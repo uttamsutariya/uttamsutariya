@@ -14,10 +14,6 @@ I also have an experience as a backend developer from last 6 months.
 
 <br>
 
-[![Uttam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=uttamsutariya&custom_title=My%20activity%20graph&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br>
-
 # ⚡Skills⚡
 
 <br>
