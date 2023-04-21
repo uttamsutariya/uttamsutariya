@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Uttam Sutariya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-A passionate and creative full-stack developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and cloud computing 🌨️.
+A passionate and creative full-stack developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Back end technologies.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Uttam_Sutariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uttam-sutariya/)](https://www.linkedin.com/in/uttam-sutariya/)
 [![Twitter Badge](https://img.shields.io/badge/-@uttam__sutariya_-black?style=flat-square&labelColor=black&logo=Twitter&link=https://twitter.com/uttam_sutariya_)](https://twitter.com/uttam_sutariya_)
