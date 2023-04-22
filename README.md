@@ -25,6 +25,9 @@ I also have an experience as a backend developer from last 6 months.
 <a href="https://expressjs.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express.js" width=80 title="Express.js"/>
 </a>
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Nextess.js" width=70 title="Next.js"/>
+</a>
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" width=35 title="MongoDB"/>
 </a>
