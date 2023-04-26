@@ -10,7 +10,7 @@ I ❤️ to work with backend & DevOps⚙️ technologies. <br>
 I build robust, secure, and scalable web APIs using backend technologies such as [node.js](https://nodejs.org/en/), [express](https://expressjs.com/), [docker](https://www.docker.com/), [AWS](https://aws.amazon.com/), [CI/CD](https://www.jenkins.io/), etc. <br>
 Also developed some fullstack projects with [MERN](https://www.educative.io/answers/what-is-mern-stack) stack. <br>
 I am a pre final year B.E student 🧑‍🎓. <br>
-I also have an experience as a backend developer from last 6 months.
+I also have an experience as a backend developer of 6 months.
 
 <br>
 
