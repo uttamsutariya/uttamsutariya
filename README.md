@@ -1,17 +1,14 @@
 <h1 align="center">Hi , I'm Uttam Sutariya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-A passionate and creative full-stack developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Back end technologies.
+A passionate and creative full-stack developer and product engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Back end technologies and DevOps⚙️. Currently working at [Capitsign](https://in.linkedin.com/company/capitsign) on [Optionlogy](https://optionlogy.capitsign.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Uttam_Sutariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uttam-sutariya/)](https://www.linkedin.com/in/uttam-sutariya/)
-[![Twitter Badge](https://img.shields.io/badge/-@uttam__sutariya_-black?style=flat-square&labelColor=black&logo=Twitter&link=https://twitter.com/uttam_sutariya_)](https://twitter.com/uttam_sutariya_)
-[![Discord Badge](https://img.shields.io/badge/-uttam1712-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/uttam1712/)](https://leetcode.com/uttam1712/)
+[![Leetcode Badge](https://img.shields.io/badge/-uttam1712-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/uttam1712/)](https://leetcode.com/uttam1712/)
 
-I ❤️ to work with backend & DevOps⚙️ technologies. <br>
+
+A final year B.Tech student having 1y of development experience in MERN stack. <br>
 I build robust, secure, and scalable web APIs using backend technologies such as [node.js](https://nodejs.org/en/), [express](https://expressjs.com/), [docker](https://www.docker.com/), [AWS](https://aws.amazon.com/), [CI/CD](https://www.jenkins.io/), etc. <br>
-Also developed some fullstack projects with [MERN](https://www.educative.io/answers/what-is-mern-stack) stack. <br>
-I am a pre final year B.E student 🧑‍🎓. <br>
-I also have an experience as a backend developer of 6 months.
-
+Also developed some fullstack projects with [MERN](https://www.educative.io/answers/what-is-mern-stack) stack.
 <br>
 
 # ⚡Skills⚡
@@ -43,18 +40,21 @@ I also have an experience as a backend developer of 6 months.
 <a href="https://jestjs.io/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest.js" width=80 title="JEST"/>
 </a>
+<a href="https://www.cypress.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/c8749cfc4be0e67a266be0554282d73d967db910/logos/cypress.svg" alt="cypress" title="CYPRESS" width=80/>
+</a>
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width=35 title="Docker"/>
 </a>
-<a href="https://kubernetes.io/" target="_blank">
+<!-- <a href="https://kubernetes.io/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width=35 title="Kubernetes"/>
-</a>
+</a> -->
 <a href="https://aws.amazon.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="AWS" width=80 title="AWS"/>
 </a>
-<a href="https://www.jenkins.io/" target="_blank">
+<!-- <a href="https://www.jenkins.io/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width=35 title="Jenkins"/>
-</a>
+</a> -->
 <a href="https://github.com/features/actions" target="_blank">
 <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="github-actions" width=35 title="github actions"/>
 </a>
@@ -66,6 +66,9 @@ I also have an experience as a backend developer of 6 months.
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width=35 title="typescript"/>
+</a>
+<a href="https://go.dev/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width=70 title="GO"/>
 </a>
 <a href="https://www.java.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width=35 title="java"/>
