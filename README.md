@@ -1,15 +1,18 @@
 <h1 align="center">Hi , I'm Uttam Sutariya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-A passionate and creative full-stack developer and product engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Back end technologies and DevOps⚙️. Currently working at [Capitsign](https://in.linkedin.com/company/capitsign) on [Optionlogy](https://optionlogy.capitsign.com/)
+A seasoned Full Stack developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Back end technologies and DevOps⚙️ & System Design. Currently working on [Optionlogy](https://optionlogy.capitsign.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Uttam_Sutariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uttam-sutariya/)](https://www.linkedin.com/in/uttam-sutariya/)
-[![Leetcode Badge](https://img.shields.io/badge/-uttam1712-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/uttam1712/)](https://leetcode.com/uttam1712/)
+[![Twitter Badge](https://img.shields.io/badge/-Uttam_Sutariya-black?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/uttam_sutariya_)](https://twitter.com/uttam_sutariya_)
 
+<h4 align="center"><a href="https://uttamsutariya.vercel.app">https://uttamsutariya.vercel.app</a></h4>
 
-A final year B.Tech student having 1y of development experience in MERN stack. <br>
+<!-- [![Leetcode Badge](https://img.shields.io/badge/-uttam1712-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/uttam1712/)](https://leetcode.com/uttam1712/) -->
+
+<!-- A final year B.Tech student having 1y of development experience in MERN stack. <br>
 I build robust, secure, and scalable web APIs using backend technologies such as [node.js](https://nodejs.org/en/), [express](https://expressjs.com/), [docker](https://www.docker.com/), [AWS](https://aws.amazon.com/), [CI/CD](https://www.jenkins.io/), etc. <br>
 Also developed some fullstack projects with [MERN](https://www.educative.io/answers/what-is-mern-stack) stack.
-<br>
+<br> -->
 
 # ⚡Skills⚡
 
