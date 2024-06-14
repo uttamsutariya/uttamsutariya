@@ -1,11 +1,15 @@
 <h1 align="center">Hi , I'm Uttam Sutariya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<a href="https://uttamsutariya.vercel.app">https://uttamsutariya.vercel.app</a>
+
 A seasoned Full Stack developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in Back end technologies and DevOps⚙️ & System Design. Currently working on [Optionlogy](https://optionlogy.capitsign.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Uttam_Sutariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uttam-sutariya/)](https://www.linkedin.com/in/uttam-sutariya/)
 [![Twitter Badge](https://img.shields.io/badge/-Uttam_Sutariya-black?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/uttam_sutariya_)](https://twitter.com/uttam_sutariya_)
 
-<h4 align="center"><a href="https://uttamsutariya.vercel.app">https://uttamsutariya.vercel.app</a></h4>
+
+
+<!-- <h4 align="center"><a href="https://uttamsutariya.vercel.app">https://uttamsutariya.vercel.app</a></h4> -->
 
 <!-- [![Leetcode Badge](https://img.shields.io/badge/-uttam1712-black?style=flat-square&logo=Leetcode&link=https://leetcode.com/uttam1712/)](https://leetcode.com/uttam1712/) -->
 
@@ -14,7 +18,7 @@ I build robust, secure, and scalable web APIs using backend technologies such as
 Also developed some fullstack projects with [MERN](https://www.educative.io/answers/what-is-mern-stack) stack.
 <br> -->
 
-# ⚡Skills⚡
+## ⚡Skills⚡
 
 <br>
 
@@ -99,18 +103,18 @@ Also developed some fullstack projects with [MERN](https://www.educative.io/answ
 
 <br />
 
-<h1 align="left">📊 My Profile Stats</h1>
+<!-- <h1 align="left">📊 My Profile Stats</h1>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=uttamsutariya&theme=github-dark" alt="uttamsutariya" /></p>
 
 <p align="left"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=uttamsutariya&show_icons=true&theme=dark" alt="uttamsutariya" />
 </p>
 
-<br />
+<br /> -->
 
 ## 📫 How to reach me?
 
 ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/uttam-sutariya/) 👨🏻‍💻 <br>
 ⦿ Follow me on [Twitter](https://twitter.com/uttam_sutariya_) 🐦 <br>
 ⦿ Follow me on [instagram](https://www.instagram.com/uttam_1712_/) 🤩 <br>
-⦿ Shoot Me an [Email](mailto:pateluttam171210@gmail.com) 💌 <br>
+⦿ Shoot Me an [Email](mailto:uttamsutariya.dev@gmail.com) 💌 <br>
